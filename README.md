@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=shabman&&show_icons=true&title_color=FFD700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=shabman&&show_icons=true&title_color=FFD700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabman&title_color=FFD700&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)](https://github.com/shabman">
 
-<!-- |Trophy Collection|
+|Trophy Collection|
 |:---:|
-|![Trophy](https://github-profile-trophy.vercel.app/?username=shabman&theme=onedark&row=1&margin-w=5)| -->
+|![Trophy](https://github-profile-trophy.vercel.app/?username=shabman&theme=onedark&row=1&margin-w=5)|
 
 <!-- ![](https://github.com/intervinn/intervinn/blob/main/henry.jpg) -->
 ![image](https://user-images.githubusercontent.com/59781727/167297351-55d1a59a-5e59-4b48-a675-2b265271265e.png)
