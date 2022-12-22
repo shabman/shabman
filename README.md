@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabman&title_color=FFD700&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)](https://github.com/shabman">
 
 <p align="center">
-    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=zimonishim&style=flat-square" />
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shabman&style=flat-square" />
 </p>
 
 |Trophy Collection|
